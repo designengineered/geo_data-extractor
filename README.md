@@ -1,4 +1,5 @@
-# 📸 Media Metadata Extraction Tool
+# 📸 Geo-Data Extractor
+**Media Metadata Extraction Tool**
 
 > Extract metadata from your photos and videos with ease! 🎯
 
